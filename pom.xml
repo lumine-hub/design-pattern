@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>design-01-factory</module>
+        <module>design-05-singleton</module>
     </modules>
     <dependencies>
     <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->

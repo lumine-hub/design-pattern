@@ -11,6 +11,7 @@
     <modules>
         <module>design-01-factory</module>
         <module>design-05-singleton</module>
+        <module>design-02-abstract-factory</module>
     </modules>
     <dependencies>
     <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->

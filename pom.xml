@@ -13,6 +13,7 @@
         <module>design-05-singleton</module>
         <module>design-02-abstract-factory</module>
         <module>action-01-strategy</module>
+        <module>action-02-template</module>
     </modules>
     <dependencies>
     <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->

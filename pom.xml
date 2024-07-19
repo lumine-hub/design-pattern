@@ -12,6 +12,7 @@
         <module>design-01-factory</module>
         <module>design-05-singleton</module>
         <module>design-02-abstract-factory</module>
+        <module>action-01-strategy</module>
     </modules>
     <dependencies>
     <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
@@ -26,6 +27,11 @@
         <version>4.12</version>
         <scope>test</scope>
     </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.30</version>
+        </dependency>
     <!-- LOGGING begin -->
     <dependency>
         <groupId>org.slf4j</groupId>

@@ -14,6 +14,8 @@
         <module>design-02-abstract-factory</module>
         <module>action-01-strategy</module>
         <module>action-02-template</module>
+        <module>example-01-pay</module>
+        <module>example-02-pay</module>
     </modules>
     <dependencies>
     <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->

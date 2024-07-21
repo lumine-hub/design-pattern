@@ -16,6 +16,7 @@
         <module>action-02-template</module>
         <module>example-01-pay</module>
         <module>example-02-pay</module>
+        <module>action-03-chain-of-responsibility</module>
     </modules>
     <dependencies>
     <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->

@@ -17,6 +17,8 @@
         <module>example-01-pay</module>
         <module>example-02-pay</module>
         <module>action-03-chain-of-responsibility</module>
+        <module>design-04-prototype</module>
+        <module>design-03-builder</module>
     </modules>
     <dependencies>
     <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
